@@ -17,6 +17,27 @@ either for fun or for learning a new tool. All university projects are private.
 
 <br>
 
+<!--
+## Contact Me
+
+<div>
+  <a href="">
+    <img src="https://img.shields.io/badge/%27for%20the%20badge%27%20style-20B2AA?style=for-the-badge" />
+  </a>
+  
+  <a href="">
+    <img src="https://img.shields.io/badge/%27for%20the%20badge%27%20style-20B2AA?style=for-the-badge" />
+  </a>
+
+  <a href="">
+    <img src="https://img.shields.io/badge/%27for%20the%20badge%27%20style-20B2AA?style=for-the-badge" />
+  </a>
+  
+</div>
+
+<br>
+-->
+
 ## Github Stats
 
 <div>
