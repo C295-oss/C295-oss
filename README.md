@@ -3,19 +3,17 @@
 # Thomas Bitsky **`Aspiring Software Engineer`**
 <br>
 
-I'm a Computer Science student at UIC aspiring to become a software engineer or delve into cyber security.
+I'm a Computer Science student at the University of Illinois, Chicago.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat 
-nulla pariatur. 
+I have interests in software engineering, cyber security -- specifically red teaming, and full-stack development.
 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Most of the projects I have public on my github are personal projects that I have built in my free time,
+either for fun or for learning a new tool. All university projects are private.
 
 <br>
 
-### Contact Me
-sdfghjkqegeirgijegijgrijgewijegwijegwijewgijegwijgewijegwijegwijgew
-
+### 🔭 I'm currently working on a **D&D DM Assister**
+### 💬 Fun fact **Favorite game is Baldurs Gate 3, and I enjoy speedrunning Mario Kart**
 
 <br>
 
@@ -23,14 +21,14 @@ sdfghjkqegeirgijegijgrijgewijegwijegwijewgijegwijgewijegwijegwijgew
 
 <div>
 
-  ![Thomas' GitHub stats](https://github-readme-stats.vercel.app/api?username=C295-oss&theme=github_dark_dimmed)
+  <!-- Stats grabbed from Anurag Hazra's readme-stats repo : https://github.com/anuraghazra -->
+
+  ![C295-oss GitHub stats](https://github-readme-stats.vercel.app/api?username=C295-oss&theme=github_dark_dimmed)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C295-oss&layout=donut&theme=github_dark_dimmed)
   
 </div>
 
-## Contributions
-
-
+<br>
 
 ## Languages and Frameworks 
 <div>
@@ -52,6 +50,6 @@ sdfghjkqegeirgijegijgrijgewijegwijegwijewgijegwijgewijegwijegwijgew
 
 </div>
 
-
+<br>
 <br>
 
