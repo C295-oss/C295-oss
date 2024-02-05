@@ -12,8 +12,7 @@ either for fun or for learning a new tool. All university projects are private.
 
 <br>
 
-### 🔭 I'm currently working on a **D&D DM Assister**
-### 💬 Fun fact **Favorite game is Baldurs Gate 3, and I enjoy speedrunning Mario Kart**
+### I'm currently working on Node.js and Express.js
 
 <br>
 
