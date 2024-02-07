@@ -5,7 +5,7 @@
 
 I'm a Computer Science student at the University of Illinois, Chicago.
 
-I have interests in software engineering, cyber security, and development.
+I have interests in software development.
 
 Most of the projects I have public on my github are personal projects that I have built in my free time,
 either for fun or for learning a new tool. All university projects are private.
