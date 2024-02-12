@@ -4,15 +4,12 @@
 <br>
 
 I'm a Computer Science student at the University of Illinois, Chicago.
+I have an interest in software development.
 
-I have interests in software development.
-
-Most of the projects I have public on my github are personal projects that I have built in my free time,
-either for fun or for learning a new tool. All university projects are private.
-
+I enjoy going to hackathons as well as programming in my free time.
 <br>
 
-### I'm currently working on Node.js and Express.js
+### I'm currently working on Node.js, Express.js, and MongoDB.
 
 <br>
 
