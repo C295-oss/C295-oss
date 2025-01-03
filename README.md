@@ -7,14 +7,10 @@ I'm a Computer Science student at the University of Illinois, Chicago.
 I have an interest in software engineering and computer security.
 
 I enjoy going to hackathons as well as programming in my free time.
-Recently, I just attended Wildhacks 2024 and my submission is viewable in my repos.I enjoy working with C++, Python, and Javascript. 
 
 <br/>
 <br/>
 
-##     Currently, I'm honing my skills in MongoDB, Node.js, and React.js.
-##     I am working towards an eventual Security+ certification.
-##     I am currently learning Rust.
 
 <br>
 
