@@ -41,7 +41,6 @@
 ## Current Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C295-oss&repo=UIC_grade_distribution&theme=github_dark_dimmed)](https://github.com/C295-oss/UIC_grade_distribution)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C295-oss&repo=C-compiler&theme=github_dark_dimmed)](https://github.com/C295-oss/C-compiler)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C295-oss&repo=stm32F4-Discovery-Projects&theme=github_dark_dimmed)](https://github.com/C295-oss/stm32F4-Discovery-Projects)
 
 ## Github Stats
